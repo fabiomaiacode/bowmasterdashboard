@@ -11,6 +11,9 @@ O programa tambem explica que as decisões não devem ser tomadas apenas baseada
 Fatores sociais, de comportamenteo entre outros.
 A ferramenta é a primeira desenvolvida pelo estudante de Ciência da Computação Fábio Maia.
 Fiquem a vontade para sugestões de melhoria.
+Esse é o link do Google Colaboratory da criação e tratamento do dataset:
+https://colab.research.google.com/drive/1Lx7wBSdvq9K75OdjECcZIqVcJrpBnaLv?usp=sharing
+
 
 (ENGLISH)
 
@@ -22,6 +25,8 @@ The program also explains that decisions should not be made solely based on this
 Social, behavioral factors, among others.
 The tool is the first developed by Computer Science student Fábio Maia.
 Feel free to make suggestions for improvement.
+This is the Google Collaboratory link for creating and processing the dataset:
+https://colab.research.google.com/drive/1Lx7wBSdvq9K75OdjECcZIqVcJrpBnaLv?usp=sharing
 
 (ESPAÑOL)
 
@@ -33,3 +38,5 @@ El programa también explica que las decisiones no deben tomarse únicamente en 
 Factores sociales, conductuales, entre otros.
 La herramienta es la primera desarrollada por el estudiante de Informática Fábio Maia.
 Siéntete libre de hacer sugerencias para mejorar.
+Este es el enlace de Google Collaboratory para crear y manejar el conjunto de datos:
+https://colab.research.google.com/drive/1Lx7wBSdvq9K75OdjECcZIqVcJrpBnaLv?usp=sharing
