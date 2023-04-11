@@ -3,6 +3,8 @@ BowMaster - ROI Dashboard
 
 (PORTUGUÊS-BR)
 
+Link Streamlit: https://fabiomaiacode-bowmasterdashboard-app-oa7ke9.streamlit.app/#dashboard-para-an-lise-e-tomada-de-decis-o-de-roi
+
 O BOWMASTER - ROI Dashboard é um programa desenvolvido em python junto com o streamlit para ajudar na tomada de decisão dos gestores quanto ao ROI.
 O programa basicamente se baseia num dataset que tem colunas como: Mes/Ano, TV, Radio, Social Media, Influencer e Vendas.
 Diante disso, o programa faz uma correlação entre cada item com as vendas e também o tempo e traz diversas conclusões.
@@ -11,11 +13,14 @@ O programa tambem explica que as decisões não devem ser tomadas apenas baseada
 Fatores sociais, de comportamenteo entre outros.
 A ferramenta é a primeira desenvolvida pelo estudante de Ciência da Computação Fábio Maia.
 Fiquem a vontade para sugestões de melhoria.
+
 Esse é o link do Google Colaboratory da criação e tratamento do dataset:
 https://colab.research.google.com/drive/1Lx7wBSdvq9K75OdjECcZIqVcJrpBnaLv?usp=sharing
 
 
 (ENGLISH)
+
+Link Streamlit: https://fabiomaiacode-bowmasterdashboard-app-oa7ke9.streamlit.app/#dashboard-para-an-lise-e-tomada-de-decis-o-de-roi
 
 BOWMASTER - ROI Dashboard is a program developed in python along with streamlit to assist managers in decision making regarding ROI.
 The program is basically based on a dataset that has columns such as: Month/Year, TV, Radio, Social Media, Influencer and Sales.
@@ -29,6 +34,8 @@ This is the Google Collaboratory link for creating and processing the dataset:
 https://colab.research.google.com/drive/1Lx7wBSdvq9K75OdjECcZIqVcJrpBnaLv?usp=sharing
 
 (ESPAÑOL)
+
+Link Streamlit: https://fabiomaiacode-bowmasterdashboard-app-oa7ke9.streamlit.app/#dashboard-para-an-lise-e-tomada-de-decis-o-de-roi
 
 BOWMASTER - ROI Dashboard es un programa desarrollado en python junto con streamlit para ayudar a los gerentes en la toma de decisiones con respecto al ROI.
 El programa se basa básicamente en un conjunto de datos que tiene columnas como: Mes/Año, TV, Radio, Redes Sociales, Influenciador y Ventas.
