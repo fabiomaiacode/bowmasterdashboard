@@ -3,7 +3,7 @@ BowMaster - ROI Dashboard
 
 (PORTUGUÊS-BR)
 
-Link Streamlit: https://fabiomaiacode-bowmasterdashboard-app-oa7ke9.streamlit.app/#dashboard-para-an-lise-e-tomada-de-decis-o-de-roi
+Link Streamlit: https://fabiomaiacode-bowmasterdashboard-app-oa7ke9.streamlit.app/
 
 O BOWMASTER - ROI Dashboard é um programa desenvolvido em python junto com o streamlit para ajudar na tomada de decisão dos gestores quanto ao ROI.
 O programa basicamente se baseia num dataset que tem colunas como: Mes/Ano, TV, Radio, Social Media, Influencer e Vendas.
@@ -20,7 +20,7 @@ https://colab.research.google.com/drive/1Lx7wBSdvq9K75OdjECcZIqVcJrpBnaLv?usp=sh
 
 (ENGLISH)
 
-Link Streamlit: https://fabiomaiacode-bowmasterdashboard-app-oa7ke9.streamlit.app/#dashboard-para-an-lise-e-tomada-de-decis-o-de-roi
+Link Streamlit: https://fabiomaiacode-bowmasterdashboard-app-oa7ke9.streamlit.app/
 
 BOWMASTER - ROI Dashboard is a program developed in python along with streamlit to assist managers in decision making regarding ROI.
 The program is basically based on a dataset that has columns such as: Month/Year, TV, Radio, Social Media, Influencer and Sales.
@@ -35,7 +35,7 @@ https://colab.research.google.com/drive/1Lx7wBSdvq9K75OdjECcZIqVcJrpBnaLv?usp=sh
 
 (ESPAÑOL)
 
-Link Streamlit: https://fabiomaiacode-bowmasterdashboard-app-oa7ke9.streamlit.app/#dashboard-para-an-lise-e-tomada-de-decis-o-de-roi
+Link Streamlit: https://fabiomaiacode-bowmasterdashboard-app-oa7ke9.streamlit.app/
 
 BOWMASTER - ROI Dashboard es un programa desarrollado en python junto con streamlit para ayudar a los gerentes en la toma de decisiones con respecto al ROI.
 El programa se basa básicamente en un conjunto de datos que tiene columnas como: Mes/Año, TV, Radio, Redes Sociales, Influenciador y Ventas.
