@@ -9,9 +9,7 @@ import streamlit.components.v1 as components
 import base64
 from PIL import Image
 
-def main():
-    # Titulo
-    st.title("Dashboard para análise e tomada de decisão de ROI")
+
 
 # lê o arquivo CSV e cria um DataFrame
 df = pd.read_csv('dflimpo.csv')
@@ -323,8 +321,12 @@ def app():
     page = pages[selection]
     page()
 
+def main():
+    # Titulo
+    st.title("Dashboard para análise e tomada de decisão de ROI")
+
 if __name__ == "__main__":
-    main()
+    app()
 
 
 
