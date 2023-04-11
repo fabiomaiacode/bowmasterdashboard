@@ -7,6 +7,7 @@ import matplotlib.dates as mdates
 import altair as alt
 import streamlit.components.v1 as components
 import base64
+import plotly.express as px
 from PIL import Image
 
 
@@ -327,6 +328,8 @@ def main():
 
 if __name__ == "__main__":
     app()
+
+
 
 
 
