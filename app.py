@@ -314,7 +314,7 @@ pages = {
 
 # Crie o layout da aplicação com a função streamlit.MultiPage()
 def app():
-    st.set_page_config(page_title="Trade-Off - ROI Dashboard")
+    st.set_page_config(page_title="Bow Master - ROI Dashboard")
     image = Image.open('logocomplete.png')
     st.sidebar.image(image, width=280)
     st.sidebar.title("Menu")
