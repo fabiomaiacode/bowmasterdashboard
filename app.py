@@ -179,7 +179,7 @@ def social_media_x_vendas():
     st.pyplot(fig)
     st.write('O gráfico acima mostra uma correlação positiva. As redes sociais aqui no Brasil principalmente representadas por:'
              ' Instagram, TikTok e Facebook aumentaram e muito a quantidade de usuários, potenciais consumidores.'
-             ' Devido a esse aumento de usuários e também a facilidade de se atingir o público alvo, as redes sociais se tornaram mais acertivas quanto a publicidade.')
+             ' Devido a esse aumento de usuários e também a facilidade de se atingir o público alvo, as redes sociais se tornaram mais assertivas quanto a publicidade.')
 
 
 def influencer_x_vendas():
